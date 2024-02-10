@@ -9,6 +9,8 @@ Just s start up to upload data
 
 ## DEMO
 
+![](https://raw.githubusercontent.com/opengeos/leafmap/master/docs/assets/logo_rect.png)
+
 ![](https://i.gifer.com/embedded/download/72Oz.gif)
 
 
