@@ -1,17 +1,14 @@
 # nuryahya.github.io
 
 ## INTRODUCTION
-This my personal wesite
+This is my personal website
 My Name is Nur Yahya 
 
+[](https://img.shields.io/badge/Nur-Yahya-blue)
 
-Just s start up to upload data
+![](https://img.shields.io/badge/NurYahy-Kedirkhan-blue)
 
-## DEMO
 
-![](https://raw.githubusercontent.com/opengeos/leafmap/master/docs/assets/logo_rect.png)
-
-![](https://i.gifer.com/embedded/download/72Oz.gif)
 
 
 
